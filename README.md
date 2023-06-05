@@ -1,4 +1,4 @@
-# LGMVIP-DataScience_Task3--2-
+# Next_word_prediction
 First, gather a large dataset of text to train my model on.
 Next, Preprocess the data to get it ready for training. This involves tokenizing the text into individual words and encoding them as integers. 
 Once data is prepped and ready to go, use Keras to build my model.Use an RNN with LSTM cells because they're really good at remembering long-term dependencies in the data. And also add an embedding layer to help my model learn meaningful representations of the words.
